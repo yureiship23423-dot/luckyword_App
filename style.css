@@ -26,8 +26,8 @@ h1 {
 
 /* ボタン（#draw-button）の設定 */
 #draw-button {
-    /* 背景色を明るい青に */
-    background-color: #007bff;
+    /* 背景色を薄いピンクに */
+    background-color: #ff85ae;
     /* 文字の色を白に */
     color: white;
     /* ボタンの角を丸くする */
