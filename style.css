@@ -3,7 +3,7 @@ body {
     /* 文字の色を濃い灰色に */
     color: #333;
     /* 背景色を薄い水色に */
-    background-color: #e6f7ff;
+    background-color: #ff6ee7;
     /* 文字のフォントを読みやすく */
     font-family: Arial, sans-serif;
     /* 画面全体の中央に配置 */
@@ -27,7 +27,7 @@ h1 {
 /* ボタン（#draw-button）の設定 */
 #draw-button {
     /* 背景色を薄いピンクに */
-    background-color: #ff85ae;
+    background-color: #0ba6ff;
     /* 文字の色を白に */
     color: white;
     /* ボタンの角を丸くする */
